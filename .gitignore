@@ -1,0 +1,16 @@
+__pycache__/
+venv/
+.venv/
+.env
+*.env
+logs/
+downloads/
+cleaned/
+data/
+*.csv
+*.pdf
+node_modules/
+*.pyc
+*.sqlite
+*.db
+.DS_Store

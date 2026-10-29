@@ -1,0 +1,15 @@
+# PyTorch (CPU build) is installed separately before this file, see the README:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+# Core application
+fastapi
+uvicorn
+qdrant-client
+sentence-transformers
+pypdf
+groq
+python-dotenv
+
+# Helper scripts (fetch_pdfs.py, explore_site.py, probe_pages.py, polite.py)
+requests
+beautifulsoup4
